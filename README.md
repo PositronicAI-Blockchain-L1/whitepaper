@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.jpg" width="120" alt="Positronic">
+<img src="logo.png" width="120" alt="Positronic">
 
 # Positronic Technical Whitepaper
 
